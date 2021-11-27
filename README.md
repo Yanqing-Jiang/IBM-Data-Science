@@ -1,4 +1,9 @@
 # IBM Data Science Capstone Project: Space-X
+
+| **Author**| Yanqing "Jane" Jiang |
+| **LinkedIn**| ----------- |
+| **Portfolio Site** | https://www.jiangyanqing.com |
+| Paragraph | Text |
 **Author**: Yanqing "Jane" Jiang
 **LinkedIn**: https://www.linkedin.com/in/jiangyanqing/
 **Portfolio Site**: https://www.jiangyanqing.com
