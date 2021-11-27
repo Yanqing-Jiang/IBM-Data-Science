@@ -1,4 +1,4 @@
-# IBM-Data-Science-Capstone-Space-X Repository
+# IBM Data Science Capstone Project: Space-X
 **Author**: Yanqing "Jane" Jiang
 **LinkedIn**: https://www.linkedin.com/in/jiangyanqing/
 **Portfolio Site**: https://www.jiangyanqing.com
