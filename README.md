@@ -1,6 +1,6 @@
 # IBM Data Science Capstone Project: Space-X
----
-**Author**: Yanqing "Jane" Jiang
+
+**Author**: Yanqing "Jane" Jiang, Global Data Analytic Specalist @ADM
 ---
 **LinkedIn**: https://www.linkedin.com/in/jiangyanqing/
 ---
