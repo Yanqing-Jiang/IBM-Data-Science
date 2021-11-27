@@ -2,7 +2,7 @@
 
 **Author**: Yanqing "Jane" Jiang, Global Data Analytic Specalist @ADM
 ---
-**LinkedIn**: https://www.linkedin.com/in/jiangyanqing/
+**LinkedIn**: https://www.linkedin.com/in/jiangyanqing
 ---
 **Portfolio Site**: https://www.jiangyanqing.com
 ---
