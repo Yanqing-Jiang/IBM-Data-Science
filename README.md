@@ -4,8 +4,7 @@
 ---
 **LinkedIn**: https://www.linkedin.com/in/jiangyanqing
 ---
-**Portfolio Site**: https://www.jiangyanqing.com
----
+
 ![This is an image](https://github.com/Yanqing-Jiang/IBM-Data-Science-Capstone-Space-X-/blob/master/png_folder/Final_Presentation-01.png)
 ![This is an image](https://github.com/Yanqing-Jiang/IBM-Data-Science-Capstone-Space-X-/blob/master/png_folder/Final_Presentation-03.png)
 ![This is an image](https://github.com/Yanqing-Jiang/IBM-Data-Science-Capstone-Space-X-/blob/master/png_folder/Final_Presentation-05.png)
